@@ -1,0 +1,6 @@
+{
+  "name": "Cigarette Authenticator",
+  "description": "Authenticates cigarette packs by scanning QR codes, analyzing visual security features, and running verification logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
